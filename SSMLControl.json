@@ -1,6 +1,6 @@
 [
   {
     "action": "talk",
-    "text": "<speak><lang xml:lang='es-ES'>Hola!Hola!Hola!</lang></speak>"
+    "text": "<speak><lang xml:lang='es-ES'>Hola!</lang></speak>"
   }
 ]
