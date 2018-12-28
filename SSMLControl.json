@@ -1,6 +1,6 @@
 [
   {
     "action": "talk",
-    "text": "<speak>This is a demo on SSML Control. I can speak in English. <lang xml:lang='es-ES'>And I can speak English in Spanish accent.</lang><lang xml:lang='fr-FR'>And now it is in French accent.</lang> I can have a break <break time='5s' /> for 5 seconds. Or I can break based on different strength. </speak>"
+    "text": "<speak>This is a demo on SSML Control. I can speak in English. <lang xml:lang='es-ES'>And I can speak English in Spanish accent.</lang><lang xml:lang='fr-FR'>And now it is in French accent.</lang> I can have a break <break time='5s' /> for 5 seconds. Or I can break based on different strength. <phoneme alphabet='ipa' ph='təˈmætoː'>Luluaa toma</phoneme></speak>"
   }
 ]
