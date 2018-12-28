@@ -1,6 +1,6 @@
 [
   {
     "action": "talk",
-    "text": "<speak>Now I am talking in English, Hola! Hola! Hola!<lang xml:lang='es-ES'>Now it is Spanish. Hola! Hola! Hola!</lang><lang xml:lang='it-IT'>Now it is Italian. Buongiorno!</lang></speak>"
+    "text": "<speak>This is a demo on SSML Control. I can speak in English. <lang xml:lang='es-ES'>And I can speak English in Spanish accent.</lang><lang xml:lang='fr-FR'>And now it is in French accent.</lang></speak>"
   }
 ]
