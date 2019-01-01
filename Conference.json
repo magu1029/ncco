@@ -1,0 +1,10 @@
+[
+        {
+            "action": "talk",
+            "text": "Please wait while we connect you to the conference"
+        },
+        {
+            "action": "conversation",
+            "name": "Conference1"
+        }
+]
