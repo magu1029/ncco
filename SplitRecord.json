@@ -5,7 +5,7 @@
         },
         {
             "action": "record",
-            "split" : "conversation",
+            "split" : "leg",
             "channels" : 2,
             "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"]
         },
