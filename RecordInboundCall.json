@@ -1,7 +1,7 @@
 [
         {
             "action": "talk",
-            "text": "Hi, we will shortly forward your call. This call is recorded for quality assurance purposes. The record will be started after a beep sound and you can stop it by pressing #."
+            "text": "Now you can record down a short message here. The record will be started after a beep sound and you can stop it by pressing #."
         },
         {
             "action": "record",
@@ -11,24 +11,17 @@
         },
         {
             "action": "talk",
-            "text": "Next we'll record the outbound call"
+            "text": "Messge record completed. Next we'll record the conference"
         },
         {
-            "action": "connect",
+            "action": "record",
+            "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"]
+        },
+        {
+            "action": "conversation",
+            "name": "Conference1",
             "record": "true",
-            "endOnKey": "#",
-            "beepStart": "true",
-            "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"],
-            "from": "12014688211",
-            "endpoint": [
-                {
-                    "type": "phone",
-                    "number": "6596889341"
-                }
-            ]
-        },
-        {
-            "action": "talk",
-            "text": "Record is completed."
+            "eventMethod": "POST",
+            "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"]
         }
     ]
