@@ -10,7 +10,14 @@
             "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"]
         },
         {
+            "action": "talk",
+            "text": "Next we'll record the outbound call"
+        },
+        {
             "action": "connect",
+            "record": "true",
+            "endOnKey": "#",
+            "beepStart": "true",
             "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"],
             "from": "12014688211",
             "endpoint": [
@@ -19,5 +26,9 @@
                     "number": "6596889341"
                 }
             ]
-        }
+        },
+        {
+            "action": "talk",
+            "text": "Record is completed."
+        },
     ]
