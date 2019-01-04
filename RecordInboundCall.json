@@ -14,10 +14,6 @@
             "text": "Message record completed. Next we'll record the conference"
         },
         {
-            "action": "record",
-            "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"]
-        },
-        {
             "action": "conversation",
             "name": "Conference1",
             "record": "true",
