@@ -1,10 +1,12 @@
 [
         {
             "action": "talk",
-            "text": "Hi, we will shortly forward your call. This call is recorded for quality assurance purposes."
+            "text": "Hi, we will shortly forward your call. This call is recorded for quality assurance purposes. The record will be started after a beep sound and you can stop it by pressing #."
         },
         {
             "action": "record",
+            "endOnKey": "#",
+            "beepStart": "true",
             "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"]
         },
         {
