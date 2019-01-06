@@ -5,6 +5,7 @@
         },
         {
             "action": "conversation",
-            "name": "Conference1"
+            "name": "Conference1",
+            "record": "true"
         }
 ]
