@@ -1,0 +1,8 @@
+[
+  {
+    "action": "conversation",
+    "name": "Conference2",
+    "record": true,
+    "startOnEnter": true
+  }
+]
