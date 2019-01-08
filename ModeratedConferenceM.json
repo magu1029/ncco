@@ -1,7 +1,8 @@
 [
   {
-    "action": "conversation",
     "record": true,
+    "split": true,
+    "action": "conversation",
     "name": "Conference2",
     "startOnEnter": true
   }
