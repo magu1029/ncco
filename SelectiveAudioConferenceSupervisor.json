@@ -3,7 +3,7 @@
     "action": "conversation",
     "name": "Conference3",
     "startOnEnter": true,
-    "canHear": ["6a227a50-a3a5-48f8-8f07-45a7dbb884ba", "b90d7a3fa5d8cd9055323996c14a84c6"],
-    "canSpeak": ["b90d7a3fa5d8cd9055323996c14a84c6"]
+    "canHear": ["bfd6c15e-f2a1-456f-b87a-08d6cabd846b", "3ded67522805b5bc6670163ee5c3bfa0"],
+    "canSpeak": ["3ded67522805b5bc6670163ee5c3bfa0"]
   }
 ]
