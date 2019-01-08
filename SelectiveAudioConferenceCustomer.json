@@ -1,5 +1,10 @@
 [
   {
+    "action": "talk",
+    "text": "This is a selective audio conference, we will connect you when an agent is available.",
+    "voiceName": "Amy"
+  },
+  {
     "action": "conversation",
     "name": "Conference3",
     "startOnEnter": false,
