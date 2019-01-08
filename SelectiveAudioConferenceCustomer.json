@@ -1,0 +1,8 @@
+[
+  {
+    "action": "conversation",
+    "name": "Conference3",
+    "startOnEnter": false,
+    "musicOnHoldUrl": ["http://magu1029.github.io/ncco.github.io/River.mp3"],
+  }
+]
