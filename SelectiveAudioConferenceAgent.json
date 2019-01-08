@@ -4,7 +4,7 @@
     "name": "Conference3",
     "startOnEnter": true,
     "record": true,
-    "canHear": ["6a227a50-a3a5-48f8-8f07-45a7dbb884ba"],
-    "canSpeak": ["6a227a50-a3a5-48f8-8f07-45a7dbb884ba"]
+    "canHear": ["361fff75-3963-44e2-b84a-69ca0cf9dfe6"],
+    "canSpeak": ["361fff75-3963-44e2-b84a-69ca0cf9dfe6"]
   }
 ]
