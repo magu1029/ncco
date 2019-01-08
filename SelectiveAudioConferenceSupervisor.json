@@ -1,21 +1,9 @@
 [
   {
-    "action": "connect",
-    "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"],
-    "from": "12014688211",
-    "endpoint": [
-      {
-        "type": "phone",
-        "number": "6596889341"
-      }
-    ]
-  },
-  {
     "action": "conversation",
     "name": "Conference3",
     "startOnEnter": true,
-    "record": true,
-    "canHear": ["6a4d6af0-55a6-4667-be90-8614e4c8e83c", "533c0874-f43d-446c-a153-f35bf30783fa"],
-    "canSpeak": ["533c0874-f43d-446c-a153-f35bf30783fa"]
+    "canHear": ["6a227a50-a3a5-48f8-8f07-45a7dbb884ba", "b90d7a3fa5d8cd9055323996c14a84c6"],
+    "canSpeak": ["b90d7a3fa5d8cd9055323996c14a84c6"]
   }
 ]
