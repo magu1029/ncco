@@ -1,0 +1,10 @@
+[
+  {
+    "action": "conversation",
+    "name": "Conference3",
+    "startOnEnter": true,
+    "record": true,
+    "canHear": ["6a4d6af0-55a6-4667-be90-8614e4c8e83c"],
+    "canSpeak": ["6a4d6af0-55a6-4667-be90-8614e4c8e83c"]
+  }
+]
