@@ -4,7 +4,7 @@
             },
             {
                 "action": "record",
-                "eventUrl": ["https://postb.in/ZlPftRDa"],
+                "eventUrl": ["https://webhook.site/9ef722dc-7967-4959-9d88-70a682332ab8"],
                 "endOnSilence": 3,
                 "beepStart": "true"
             },
