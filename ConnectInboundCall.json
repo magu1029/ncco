@@ -4,7 +4,8 @@
     "from":"12014688211",
     "endpoint": [{
                 "type": "phone",
-                "number": "6596889341"
+                "number": "6596889341",
+                "dtmfAnswer": "2p02p"
             }]
   }
 ]
