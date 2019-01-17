@@ -6,6 +6,7 @@
         {
             "action": "conversation",
             "name": "Conference1",
-            "record": "true"
+            "record": "true",
+            "eventUrl": ["https://postb.in/b/ckseexjG"]
         }
 ]
