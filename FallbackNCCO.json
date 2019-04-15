@@ -1,0 +1,17 @@
+[
+  {
+    "action": "connect",
+    "from": "6596889341",
+    "timeout": 5,
+    "eventType": "synchronous",
+    "eventUrl": [
+      "http://webhook.site/c33922d0-3603-432f-a74c-11f5feaae61d"
+    ],
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "6596889341"
+      }
+    ]
+  }
+]
