@@ -4,6 +4,7 @@
     "from": "6596889341",
     "timeout": 5,
     "eventType": "synchronous",
+    "eventMethod": "GET",
     "eventUrl": [
       "https://magu1029.github.io/ncco.github.io/Transfer.json"
     ],
