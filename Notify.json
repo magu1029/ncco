@@ -1,0 +1,13 @@
+[
+  {
+    "action": "notify",
+    "payload": {
+      "foo": "bar",
+      "text": "This is a test message"
+    },
+    "eventUrl": [
+      "http://webhook.site/c33922d0-3603-432f-a74c-11f5feaae61d"
+    ],
+    "eventMethod": "POST"
+  }
+]
