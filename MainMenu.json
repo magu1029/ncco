@@ -1,0 +1,23 @@
+[
+  {
+    "action": "talk",
+    "text": "Please record something"
+  },
+  {
+    "action": "record",
+    "beepStart": true,
+    "timeOut": 50,
+    "endOnSilence": 3,
+    "eventMethod": "POST",
+    "eventUrl": [
+      "http://webhook.site/84755fbd-7595-4355-8278-8192763301bd"
+    ]
+  },
+  {
+    "action": "notify",
+    "eventUrl": [
+      "http://webhook.site/84755fbd-7595-4355-8278-8192763301bd"
+    ],
+    "eventMethod": "POST"
+  }
+]
