@@ -10,13 +10,13 @@
     "endOnSilence": 3,
     "eventMethod": "POST",
     "eventUrl": [
-      "http://webhook.site/84755fbd-7595-4355-8278-8192763301bd"
+      "https://postb.in/1576144109593-2517230687662"
     ]
   },
   {
     "action": "notify",
     "eventUrl": [
-      "http://webhook.site/84755fbd-7595-4355-8278-8192763301bd"
+      "https://postb.in/1576144109593-2517230687662"
     ],
     "eventMethod": "POST"
   }
