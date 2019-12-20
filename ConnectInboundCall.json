@@ -2,9 +2,11 @@
   {
     "action":"connect",
     "from":"12014688211",
-    "endpoint": [{
-                "type": "phone",
-                "number": "6596889341"
+    "endpoint":[{
+                "headers":{
+                },
+                "type":"sip",
+                "uri":"sip:4001@3.113.20.214"
             }]
   }
 ]
