@@ -5,7 +5,6 @@
         },
         {
             "action": "input",
-            "maxDigits": 1,
-            "eventUrl": ["https://postb.in/1579165806370-1331718326546"]
+            "maxDigits": 3
         }
 ]
