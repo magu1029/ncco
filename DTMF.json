@@ -5,6 +5,7 @@
         },
         {
             "action": "input",
-            "maxDigits": 3
+            "maxDigits": 3,
+            "timeout": 10
         }
 ]
