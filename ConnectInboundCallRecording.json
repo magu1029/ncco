@@ -1,0 +1,14 @@
+[
+  {
+    "action": "record",
+    "eventUrl": ["https://postb.in/1583118253618-7198953323531"]
+  },
+  {
+    "action":"connect",
+    "from":"12014688211",
+    "endpoint": [{
+                "type": "phone",
+                "number": "6596889341"
+            }]
+  }
+]
