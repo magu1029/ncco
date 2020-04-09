@@ -1,11 +1,11 @@
 {
-	'action': 'record',
-	'eventUrl': ["https://postb.in/1586408289407-9734583206009"]
+	"action": "record",
+	"eventUrl": ["https://postb.in/1586408289407-9734583206009"]
 	},
 	{
-	'action': 'talk',
-	'voiceName': 'Joey',
-	'text': 'Thank you. Here is a song for you'
+	"action": "talk",
+	"voiceName": "Joey",
+	"text": "Thank you. Here is a song for you"
 	},
 	{
 	"action": "stream",
